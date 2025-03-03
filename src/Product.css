@@ -1,0 +1,19 @@
+
+.Product {
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 14px;
+    margin-bottom: 10px;
+    /* padding:0 5px 0 5px; */
+    margin-left: 15px;
+    height: 159px;
+    width: 200px;
+
+}
+
+.Product-amazon {
+  
+        display : flex;
+        flex : wrap;
+        justify-content: center;
+        align-items: center;
+}

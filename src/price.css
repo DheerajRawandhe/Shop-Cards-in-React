@@ -1,0 +1,19 @@
+
+.price{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 70);
+    height: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+
+}
+.old-price{
+    text-decoration-line: line-through;
+}
+.new-price{
+    font-weight: bold;
+
+}
