@@ -1,5 +1,3 @@
-# Shop Cards in React
-
 # Shop Cards - A React Product Showcase
 The Shop Cards project is a React-based product display component that showcases special deals on electronic items. It dynamically renders multiple product cards using reusable React components.
 
