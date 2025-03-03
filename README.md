@@ -13,3 +13,14 @@ The Shop Cards project is a React-based product display component that showcases
 - Dynamic Data Rendering: Products are displayed based on props.
 - Minimalist Design: Simple and clean card layout.
 
+
+# Installation & Setup 🚀
+Install dependencies:
+(i) npm install
+
+Start the development server:
+(ii) npm run dev
+
+
+
+ 
